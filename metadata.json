@@ -1,0 +1,6 @@
+{
+  "name": "기술질의(RFI) 운영 대시보드",
+  "description": "엑셀 기반 RFI 데이터를 자동 집계, 분석, 시각화하고 AI 코멘트를 제공하는 업무 대시보드",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
